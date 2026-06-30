@@ -1,0 +1,15 @@
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\bin\Debug\net8.0\employeePayrollSystem.exe
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\bin\Debug\net8.0\employeePayrollSystem.deps.json
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\bin\Debug\net8.0\employeePayrollSystem.runtimeconfig.json
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\bin\Debug\net8.0\employeePayrollSystem.dll
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\bin\Debug\net8.0\employeePayrollSystem.pdb
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\obj\Debug\net8.0\employeePayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\obj\Debug\net8.0\employeePayrollSystem.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\obj\Debug\net8.0\employeePayrollSystem.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\obj\Debug\net8.0\employeePayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\obj\Debug\net8.0\employeePayrollSystem.sourcelink.json
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\obj\Debug\net8.0\employeePayrollSystem.dll
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\obj\Debug\net8.0\refint\employeePayrollSystem.dll
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\obj\Debug\net8.0\employeePayrollSystem.pdb
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\obj\Debug\net8.0\employeePayrollSystem.genruntimeconfig.cache
+C:\Users\alexi\OneDrive\Desktop\cSharpProjects\employeePayrollSystem\obj\Debug\net8.0\ref\employeePayrollSystem.dll

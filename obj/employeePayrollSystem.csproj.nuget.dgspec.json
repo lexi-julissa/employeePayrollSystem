@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\employeePayrollSystem\\employeePayrollSystem.csproj": {}
+    "C:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\employeePayrollSystem\\employeePayrollSystem.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\employeePayrollSystem\\employeePayrollSystem.csproj": {
+    "C:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\employeePayrollSystem\\employeePayrollSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\employeePayrollSystem\\employeePayrollSystem.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\employeePayrollSystem\\employeePayrollSystem.csproj",
         "projectName": "employeePayrollSystem",
-        "projectPath": "c:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\employeePayrollSystem\\employeePayrollSystem.csproj",
+        "projectPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\employeePayrollSystem\\employeePayrollSystem.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\employeePayrollSystem\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\cSharpProjects\\employeePayrollSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config"
